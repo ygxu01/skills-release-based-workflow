@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-  /* Add background-color declaration here */
+    background-color: black;
 }
 ol,
 ul {
@@ -140,6 +140,3 @@ canvas {
   background-color: black;
 }
 
-body {
-    background-color: black;
-}
